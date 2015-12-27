@@ -1,12 +1,9 @@
 /*****************************************************************************
  FILE      :  particles.c
  PROGRAM   :  Particle System
- AUTHOR    :  Warsame Egal and Charles Ambaiowei
- DUE DATE  :  November 02, 2015
- COURSE    :  CST8234, Carolina Ayala
+ AUTHOR    :  Warsame Egal
  PURPOSE   :  Implement a particle system
  CHALLENGES:  Linked List 
- DIFFICULTY:  3-4
 *****************************************************************************/
 
 /***********************************************
